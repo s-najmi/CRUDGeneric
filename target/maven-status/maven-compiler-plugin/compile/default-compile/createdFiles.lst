@@ -1,0 +1,14 @@
+ir\mapsa\CRUDGeneric\Imp\IClothMapperImpl.class
+ir\mapsa\CRUDGeneric\generic\IServiceGeneric.class
+ir\mapsa\CRUDGeneric\generic\ServiceGeneric.class
+ir\mapsa\CRUDGeneric\Imp\IClothRepository.class
+ir\mapsa\CRUDGeneric\Imp\IClothMapper.class
+ir\mapsa\CRUDGeneric\generic\IRepositoryGeneric.class
+ir\mapsa\CRUDGeneric\entity\ClothDTO.class
+ir\mapsa\CRUDGeneric\Application.class
+ir\mapsa\CRUDGeneric\entity\Size.class
+ir\mapsa\CRUDGeneric\generic\IMapperGeneric.class
+ir\mapsa\CRUDGeneric\Imp\ClothController.class
+ir\mapsa\CRUDGeneric\Imp\IClothService.class
+ir\mapsa\CRUDGeneric\Imp\ClothService.class
+ir\mapsa\CRUDGeneric\entity\Cloth.class
